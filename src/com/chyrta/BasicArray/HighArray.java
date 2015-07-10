@@ -36,7 +36,7 @@ public class HighArray {
         for (j = 0; j < nElems; j++)
             if (value == a[j] )
                 break;
-        if(j == nElems)
+        if (j == nElems)
             return false;
         else {
             for (int k = j; k < nElems; k++)
@@ -52,5 +52,7 @@ public class HighArray {
             System.out.println("");
         }
     }
+
+
 
 }

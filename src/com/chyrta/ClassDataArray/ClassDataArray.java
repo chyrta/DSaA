@@ -1,4 +1,4 @@
-package com.chyrta.Persons;
+package com.chyrta.ClassDataArray;
 
 public class ClassDataArray {
 
